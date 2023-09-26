@@ -1,4 +1,4 @@
-[![FULLSTACK-DEVELOPER-1.png](https://i.postimg.cc/1RrCH6qv/FULLSTACK-DEVELOPER-1.png)](https://postimg.cc/9zzYXD19)
+[![FULLSTACK-DEVELOPER.jpg](https://i.postimg.cc/Y95vLhpg/FULLSTACK-DEVELOPER.jpg)](https://postimg.cc/0MCkL5K2)
 <h1 align="center">Hi 👋, I'm Gabriela Dunowska</h1>
 <h3 align="center">A passionate full stack developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
