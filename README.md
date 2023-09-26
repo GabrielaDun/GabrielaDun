@@ -1,4 +1,4 @@
-[![Fullstack-developer.png](https://i.postimg.cc/SRj8LRjd/Fullstack-developer.png)](https://postimg.cc/2LRVrzQL)
+[![FULLSTACK-DEVELOPER-1.png](https://i.postimg.cc/1RrCH6qv/FULLSTACK-DEVELOPER-1.png)])
 <h1 align="center">Hi 👋, I'm Gabriela Dunowska</h1>
 <h3 align="center">A passionate full stack developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
@@ -21,4 +21,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrieladun&show_icons=true&locale=en&layout=compact" alt="gabrieladun" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrieladun&show_icons=true&locale=en" alt="gabrieladun" /></p>
